@@ -77,17 +77,6 @@ function order() {
 // }
 
 
-
-
-
-
-
-
-
-
-
-
-
 function menuDetails(boxId) {
     const box = document.getElementById(boxId);
     const Bx = document.querySelectorAll('.menu-box');
